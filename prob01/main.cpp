@@ -5,7 +5,7 @@
 int main()
 {
   // Print the message to the console.
-  std::cout << "Hello world!!" << std::endl;
+  std::cout << "mitochondria is the powerhouse of the cell!" << std::endl;
 
   return 0;
 }
